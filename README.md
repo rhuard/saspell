@@ -1,0 +1,2 @@
+# saspell
+improved-barnacle
