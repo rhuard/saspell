@@ -1,5 +1,5 @@
 install:
-	sudo ln -s $(HOME)/Programs/ldict/ldict /usr/bin/ldict
+	sudo ln -s $(HOME)/Programs/saspell/saspell /usr/bin/saspell
 
 uninstall:
-	sudo rm /usr/bin/ldict
+	sudo rm /usr/bin/saspell
